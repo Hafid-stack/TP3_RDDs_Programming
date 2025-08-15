@@ -1,0 +1,7 @@
+2024-01-01 Rabat Laptop 12000
+2024-01-01 Casablanca Smartphone 8500
+2024-01-02 Casablanca Tablet 4000
+2024-01-02 Rabat Laptop 12500
+2024-01-03 Fes Keyboard 500
+2024-01-03 Casablanca Laptop 13000
+2024-01-04 Rabat Tablet 4200
